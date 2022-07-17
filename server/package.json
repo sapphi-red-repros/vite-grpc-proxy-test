@@ -1,0 +1,10 @@
+{
+  "name": "echo-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "echo_server.js",
+  "dependencies": {
+    "google-protobuf": "^3.8.0-rc.1",
+    "grpc": "^1.24.11"
+  }
+}
